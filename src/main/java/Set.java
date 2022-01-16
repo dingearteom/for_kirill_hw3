@@ -1,3 +1,5 @@
+import java.io.Serializable;
+
 /**
  * Lock-Free множество.
  * @param <T> Тип ключей
